@@ -1,8 +1,8 @@
 # getMyAge
 Kotlin code can calculating the age by the year,month,day,hour,minute.
 
-# download the file 
-https://github.com/youndon/getMyAge.git
+## download the file 
+`https://github.com/youndon/getMyAge.git`
 
-# NOTE
+## NOTE
 this code for terminal work, and you can start with this code and make app better.
